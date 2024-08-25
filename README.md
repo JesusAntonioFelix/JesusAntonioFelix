@@ -15,4 +15,4 @@ Tengo sólidos conocimientos en Python, SQL y visualización de datos, y me enca
 
 ## 🌟 Proyectos Claves:
 
-- **[Proyecto sobre el comportamiento de los clientes]()**
+- **[Proyecto sobre el comportamiento de los clientes](https://github.com/JesusAntonioFelix/Analisis_planes_telefonia_movil)**
