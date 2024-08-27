@@ -1,18 +1,4 @@
-## Hola 👋 Soy Jesus Felix, Ingeniero industrial e iniciando el mundo de Data Analyst que con lleva a la estadística aplicada, la ciencia de datos y el machine learning.
+## Hola 👋 Soy Jesus Felix
 
-Tengo sólidos conocimientos en Python, SQL y visualización de datos, y me encanta convertir datos en información valiosa para resolver problemas complejos y mejorar la eficiencia en proyectos. He realizado proyectos para la optimización de procesos, migración de datos y desarrollo de modelos predictiv
+Soy un Ingeniero Industrial apasionado por el aprendizaje y por hacer un impacto positivo en el mundo del análisis de datos. Me encanta trabajar con datos y estadísticas, disfrutando del proceso de resolver problemas complejos y de aplicar mis habilidades en cada etapa de un proyecto. Me destaco especialmente en el uso de Python, SQL y Tableau, herramientas que aprendí durante un Bootcamp de Data Analyst. Estoy comprometido con mantenerme al día con las tendencias de la industria, siempre buscando innovar y ofrecer soluciones efectivas.
 
-
-## 🔧 Habilidades & Tecnologías:
-
-- **Lenguajes de programación:** Python, SQL
-- **Análisis de Datos & Machine Learning:** scikit-learn, pandas, numpy
-- **Herramientas de visualización:** Matplotlib, Seaborn, Tableu
-- **Librerias en Python:**
-  - scikit-learn: algoritmos en Machine learning
-  - pandas: Manipulación y análisis de datos
-  - numpy: Operaciones numéricas
-
-## 🌟 Proyectos Claves:
-
-- **[Proyecto sobre el comportamiento de los clientes](https://github.com/JesusAntonioFelix/Analisis_planes_telefonia_movil)**
