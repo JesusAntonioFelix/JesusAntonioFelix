@@ -7,8 +7,4 @@ Soy un Ingeniero Industrial apasionado por el aprendizaje y por hacer un impacto
 
 
 
-### :fire: Mis estadísticas:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marlon3010&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon3010&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
